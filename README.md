@@ -4,7 +4,7 @@
     <p align="center">
       azerinoo
     </p>
-    <img src="https://i.ibb.co/Gd77SR8/screenshot014.jpg"/>
+    <img src="https://i.ibb.co/LrGWkqT/screenshot022.jpg"/>
   </a>
 </h1>
 <h1 align="center">
