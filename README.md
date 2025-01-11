@@ -1,6 +1,6 @@
 <h1 align="center">Kissonix skins</h1>
 <h1 align="center">
-  <a href="https://drive.google.com/file/d/1jFaxGYCWW46NqzVsXGo3wlnLRRihSSuY/view?usp=drive_link">
+  <a href="https://drive.google.com/file/d/1hR6k58VnMU8dNVJrkfykTlWUaz9LPx6h/view?usp=drive_link">
     <p align="center">
       azerinoo
     </p>
@@ -8,7 +8,7 @@
   </a>
 </h1>
 <h1 align="center">
-  <a href="https://drive.google.com/file/d/1A3ffksnuWZodfPC_1l3-Tg_cnTIxe6f8/view?usp=drive_link">
+  <a href="https://drive.google.com/file/d/1b-C0pGIpSe6neXhurNTsKSTEkK_GHkpP/view?usp=drive_link">
     <p align="center">
       dt
     </p>
@@ -24,15 +24,23 @@
   </a>
 </h1>
 <h1 align="center">
-  <a href="https://drive.google.com/file/d/1-uZAEhvBChz4XyXF8Es4JKJsdpq9pfTA/view?usp=drive_link">
+  <a href="https://drive.google.com/file/d/1f7z1FPcUitEE5EqAk-QMUhNDqdEWu3lc/view?usp=sharing">
     <p align="center">
-      rudjino
+      tekkito2 vskf
     </p>
-    <img src="https://i.ibb.co/gDZDC2Z/screenshot017.jpg"/>
+    <img src="https://github.com/thepro2k/Maliszewski-osu-skins/assets/108192718/49b1bc8f-9bc3-4952-bf78-0276e2ec54d8"/>
   </a>
 </h1>
 <h1 align="center">
-  <a href="https://drive.google.com/file/d/1XiRbbaeKT5oucMVHk9c4dazWfR6e2haD/view?usp=drive_link">
+  <a href="https://drive.google.com/file/d/1yKkV1ha-nEPlOnOOatiHqFruDJO3pueI/view?usp=drive_link">
+    <p align="center">
+      rudjinator
+    </p>
+    <img src="https://i.ibb.co/Zzwtm87/screenshot024.jpg"/>
+  </a>
+</h1>
+<h1 align="center">
+  <a href="https://drive.google.com/file/d/1ZnrBMKuO9vUkU9GhacWyCUyJ26z_lQ8o/view?usp=drive_link">
     <p align="center">
       dinglekitoreo
     </p>
