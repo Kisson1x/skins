@@ -1,4 +1,7 @@
 <h1 align="center">Kissonix skins</h1>
+<p align="center" >
+  if something doesn't work, then write to me in discord "Kissonix"
+</p>
 <h1 align="center">
   <a href="https://drive.google.com/file/d/1hR6k58VnMU8dNVJrkfykTlWUaz9LPx6h/view?usp=drive_link">
     <p align="center">
