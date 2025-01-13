@@ -50,6 +50,14 @@
     <img src="https://i.ibb.co/R7120SF/screenshot018.jpg"/>
   </a>
 </h1>
+<h1 align="center">
+  <a href="https://drive.google.com/file/d/1qm0dU-ET0zfv60z6-Oxl5CFqd15z-GQF/view?usp=drive_link">
+    <p align="center">
+      tekkitoietherialnowy
+    </p>
+    <img src="https://i.ibb.co/sq1wfZy/screenshot030.jpg"/>
+  </a>
+</h1>
 <!-- Skin template, part to edit are wrapped in ``
 <h1 align="center">
   <a href="`link to the skin`">
