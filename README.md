@@ -58,6 +58,14 @@
     <img src="https://i.ibb.co/sq1wfZy/screenshot030.jpg"/>
   </a>
 </h1>
+<h1 align="center">
+  <a href="https://drive.google.com/file/d/1xhOmT6UfqHjEdZ9JYM8_5VZMCQptE7Z1/view?usp=drive_link">
+    <p align="center">
+      -_Oyden_tekkito
+    </p>
+    <img src="https://i.ibb.co/fvFq3KQ/screenshot031.jpg"/>
+  </a>
+</h1>
 <!-- Skin template, part to edit are wrapped in ``
 <h1 align="center">
   <a href="`link to the skin`">
