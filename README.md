@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/d7f1ca9e-3970-4c41-827c-1ed98c2ecb94)<h1 align="center">Kissonix skins</h1>
+<h1 align="center">Kissonix skins</h1>
 <p align="center" >
   if something doesn't work, then write to me in discord "Kissonix"
 </p>
