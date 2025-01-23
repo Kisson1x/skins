@@ -1,4 +1,4 @@
-<h1 align="center">Kissonix skins</h1>
+![image](https://github.com/user-attachments/assets/d7f1ca9e-3970-4c41-827c-1ed98c2ecb94)<h1 align="center">Kissonix skins</h1>
 <p align="center" >
   if something doesn't work, then write to me in discord "Kissonix"
 </p>
@@ -39,7 +39,7 @@
     <p align="center">
       rudjinator
     </p>
-    <img src="https://i.ibb.co/Zzwtm87/screenshot024.jpg"/>
+    <img src="https://cdn.discordapp.com/attachments/1088522446468030528/1332022477756567572/screenshot024.jpg?ex=6793be1a&is=67926c9a&hm=becd54353f0349996eddfcea76f1b32de3b153843b74210307227616107e82c5&"/>
   </a>
 </h1>
 <h1 align="center">
