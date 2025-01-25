@@ -15,7 +15,7 @@
     <p align="center">
       dt
     </p>
-    <img src="https://i.ibb.co/D5Q7pLV/screenshot015.jpg"/>
+    <img src="https://i.ibb.co/0nDRLQr/screenshot015.jpg"/>
   </a>
 </h1>
 <h1 align="center">
@@ -64,6 +64,14 @@
       -_Oyden_tekkito
     </p>
     <img src="https://i.ibb.co/fvFq3KQ/screenshot031.jpg"/>
+  </a>
+</h1>
+<h1 align="center">
+  <a href="https://drive.google.com/file/d/1mv8PrtywhPP4uVN2-MQGg8u_HNZIDXuo/view?usp=drive_link">
+    <p align="center">
+      tekkito (edit)
+    </p>
+    <img src="https://i.ibb.co/LdXWVjC/screenshot041.jpg"/>
   </a>
 </h1>
 <!-- Skin template, part to edit are wrapped in ``
