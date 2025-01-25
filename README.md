@@ -74,6 +74,14 @@
     <img src="https://i.ibb.co/LdXWVjC/screenshot041.jpg"/>
   </a>
 </h1>
+<h1 align="center">
+  <a href="https://drive.google.com/file/d/1NtvLVtytGBFV2CbpASPFjhW59pbw3vIT/view?usp=drive_link">
+    <p align="center">
+      Rafis TrippleStacked Hitcirlceoverlay Upscaled
+    </p>
+    <img src="https://i.ibb.co/3WpF3vP/screenshot042.jpg"/>
+  </a>
+</h1>
 <!-- Skin template, part to edit are wrapped in ``
 <h1 align="center">
   <a href="`link to the skin`">
