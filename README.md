@@ -82,6 +82,14 @@
     <img src="https://i.ibb.co/3WpF3vP/screenshot042.jpg"/>
   </a>
 </h1>
+<h1 align="center">
+  <a href="https://drive.google.com/file/d/1E40qB5oaKIAYMYHTByANFoklOuUvRF0T/view?usp=drive_link">
+    <p align="center">
+      Aristia rudj (edit)
+    </p>
+    <img src="https://i.ibb.co/KxnQ16s/screenshot043.jpg"/>
+  </a>
+</h1>
 <!-- Skin template, part to edit are wrapped in ``
 <h1 align="center">
   <a href="`link to the skin`">
