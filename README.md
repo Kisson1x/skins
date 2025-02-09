@@ -23,7 +23,7 @@
     <p align="center">
       shield ✿ 1.1
     </p>
-    <img src="https://i.ibb.co/x81FGkXW/screenshot050.jpg"/>
+    <img src="https://github.com/Kisson1x/skins/blob/main/screenshot050.jpg?raw=true"/>
   </a>
 </h1>
 <h1 align="center">
