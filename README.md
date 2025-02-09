@@ -39,7 +39,7 @@
     <p align="center">
       rudjinator
     </p>
-    <img src="https://cdn.discordapp.com/attachments/1088522446468030528/1332022477756567572/screenshot024.jpg?ex=6793be1a&is=67926c9a&hm=becd54353f0349996eddfcea76f1b32de3b153843b74210307227616107e82c5&"/>
+    <img src="https://i.ibb.co/LdpgP2PB/screenshot024.jpg"/>
   </a>
 </h1>
 <h1 align="center">
