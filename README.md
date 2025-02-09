@@ -3,7 +3,7 @@
   if something doesn't work, then write to me in discord "Kissonix"
 </p>
 <h1 align="center">
-  <a href="https://drive.google.com/file/d/1hR6k58VnMU8dNVJrkfykTlWUaz9LPx6h/view?usp=drive_link">
+  <a href="https://github.com/Kisson1x/skins/raw/refs/heads/main/azerinoo.osk">
     <p align="center">
       azerinoo
     </p>
@@ -11,7 +11,7 @@
   </a>
 </h1>
 <h1 align="center">
-  <a href="https://drive.google.com/file/d/1b-C0pGIpSe6neXhurNTsKSTEkK_GHkpP/view?usp=drive_link">
+  <a href="https://github.com/Kisson1x/skins/raw/refs/heads/main/dt.osk">
     <p align="center">
       dt
     </p>
@@ -19,15 +19,7 @@
   </a>
 </h1>
 <h1 align="center">
-  <a href="https://drive.google.com/file/d/1fY6i1_OUSjIpFg3GC4xpOUBDpVba23OR/view?usp=drive_link">
-    <p align="center">
-      aia
-    </p>
-    <img src="https://i.ibb.co/qF9DsLn/screenshot016.jpg"/>
-  </a>
-</h1>
-<h1 align="center">
-  <a href="https://drive.google.com/file/d/1f7z1FPcUitEE5EqAk-QMUhNDqdEWu3lc/view?usp=sharing">
+  <a href="https://github.com/Kisson1x/skins/raw/refs/heads/main/_%E2%80%A2%20tekkito2_vskf.osk">
     <p align="center">
       tekkito2 vskf
     </p>
@@ -35,7 +27,7 @@
   </a>
 </h1>
 <h1 align="center">
-  <a href="https://drive.google.com/file/d/1yKkV1ha-nEPlOnOOatiHqFruDJO3pueI/view?usp=drive_link">
+  <a href="https://github.com/Kisson1x/skins/raw/refs/heads/main/rudjinator.osk">
     <p align="center">
       rudjinator
     </p>
@@ -43,7 +35,7 @@
   </a>
 </h1>
 <h1 align="center">
-  <a href="https://drive.google.com/file/d/1ZnrBMKuO9vUkU9GhacWyCUyJ26z_lQ8o/view?usp=drive_link">
+  <a href="https://github.com/Kisson1x/skins/raw/refs/heads/main/dinglekitoreo.osk">
     <p align="center">
       dinglekitoreo
     </p>
@@ -51,7 +43,7 @@
   </a>
 </h1>
 <h1 align="center">
-  <a href="https://drive.google.com/file/d/1qm0dU-ET0zfv60z6-Oxl5CFqd15z-GQF/view?usp=drive_link">
+  <a href="https://github.com/Kisson1x/skins/raw/refs/heads/main/tekkitoietherialnowy.osk">
     <p align="center">
       tekkitoietherialnowy
     </p>
@@ -59,7 +51,7 @@
   </a>
 </h1>
 <h1 align="center">
-  <a href="https://drive.google.com/file/d/1xhOmT6UfqHjEdZ9JYM8_5VZMCQptE7Z1/view?usp=drive_link">
+  <a href="https://github.com/Kisson1x/skins/raw/refs/heads/main/-_Oyden_tekkito.osk">
     <p align="center">
       -_Oyden_tekkito
     </p>
@@ -67,7 +59,7 @@
   </a>
 </h1>
 <h1 align="center">
-  <a href="https://drive.google.com/file/d/1mv8PrtywhPP4uVN2-MQGg8u_HNZIDXuo/view?usp=drive_link">
+  <a href="https://github.com/Kisson1x/skins/raw/refs/heads/main/tekkito%20(edit).osk">
     <p align="center">
       tekkito (edit)
     </p>
@@ -75,7 +67,7 @@
   </a>
 </h1>
 <h1 align="center">
-  <a href="https://drive.google.com/file/d/1NtvLVtytGBFV2CbpASPFjhW59pbw3vIT/view?usp=drive_link">
+  <a href="https://github.com/Kisson1x/skins/raw/refs/heads/main/Rafis%20TrippleStacked%20Hitcirlceoverlay%20Upscaled.osk">
     <p align="center">
       Rafis TrippleStacked Hitcirlceoverlay Upscaled
     </p>
@@ -83,7 +75,7 @@
   </a>
 </h1>
 <h1 align="center">
-  <a href="https://drive.google.com/file/d/1E40qB5oaKIAYMYHTByANFoklOuUvRF0T/view?usp=drive_link">
+  <a href="https://github.com/Kisson1x/skins/raw/refs/heads/main/aristia%20rudj%20(edit).osk">
     <p align="center">
       Aristia rudj (edit)
     </p>
