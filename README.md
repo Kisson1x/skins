@@ -67,6 +67,14 @@
   </a>
 </h1>
 <h1 align="center">
+  <a href="https://github.com/Kisson1x/skins/raw/refs/heads/main/a(knzx)ristia.osk">
+    <p align="center">
+      a(knzx)ristia
+    </p>
+    <img src="https://i.ibb.co/0jn3C27C/screenshot102.jpg"/>
+  </a>
+</h1>
+<h1 align="center">
   <a href="https://github.com/Kisson1x/skins/raw/refs/heads/main/-_Oyden_tekkito.osk">
     <p align="center">
       -_Oyden_tekkito
