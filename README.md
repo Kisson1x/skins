@@ -11,6 +11,14 @@
   </a>
 </h1>
 <h1 align="center">
+  <a href="https://github.com/Kisson1x/skins/raw/refs/heads/main/-%20%20%20%20%20%20%20%20%20%20%20%20%23%20%20%5B%20cloutiful%20liveplay%20%5D.osk">
+    <p align="center">
+      - # [ cloutiful liveplay ]
+    </p>
+    <img src="https://github.com/Kisson1x/skins/blob/main/screenshot121.jpg?raw=true"/>
+  </a>
+</h1>
+<h1 align="center">
   <a href="https://github.com/Kisson1x/skins/raw/refs/heads/main/Rafis%20TrippleStacked%20Hitcirlceoverlay%20Upscaled.osk">
     <p align="center">
       Rafis TrippleStacked Hitcirlceoverlay Upscaled
