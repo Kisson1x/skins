@@ -23,7 +23,7 @@
     <p align="center">
       Rafis TrippleStacked Hitcirlceoverlay Upscaled
     </p>
-    <img src="https://i.ibb.co/3WpF3vP/screenshot042.jpg"/>
+    <img src="https://i.ibb.co/JFjYPDvR/screenshot042.jpg"/>
   </a>
 </h1>
 <h1 align="center">
