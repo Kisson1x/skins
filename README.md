@@ -27,6 +27,14 @@
   </a>
 </h1>
 <h1 align="center">
+  <a href="https://github.com/Kisson1x/skins/raw/refs/heads/main/Welter-azerinoo.osk">
+    <p align="center">
+      Welter-azerinoo
+    </p>
+    <img src="https://i.ibb.co/MybLMkRL/screenshot126.jpg"/>
+  </a>
+</h1>
+<h1 align="center">
   <a href="https://github.com/Kisson1x/skins/raw/refs/heads/main/shield%20%E2%9C%BF%201.1.osk">
     <p align="center">
       shield ✿ 1.1
