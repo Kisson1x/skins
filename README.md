@@ -43,14 +43,6 @@
   </a>
 </h1>
 <h1 align="center">
-  <a href="https://github.com/Kisson1x/skins/raw/refs/heads/main/azerinoo.osk">
-    <p align="center">
-      azerinoo
-    </p>
-    <img src="https://i.ibb.co/LrGWkqT/screenshot022.jpg"/>
-  </a>
-</h1>
-<h1 align="center">
   <a href="https://github.com/Kisson1x/skins/raw/refs/heads/main/dt.osk">
     <p align="center">
       dt
