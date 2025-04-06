@@ -1,4 +1,4 @@
-<h1 align="center">Kissonix skins</h1>
+![screenshot102](https://github.com/user-attachments/assets/b4147034-7d28-4e1b-81f5-6409f4a5d6fa)<h1 align="center">Kissonix skins</h1>
 <p align="center" >
   if something doesn't work, then write to me in discord "Kissonix"
 </p>
@@ -59,7 +59,7 @@
   </a>
 </h1>
 <h1 align="center">
-  <a href="https://github.com/Kisson1x/skins/raw/refs/heads/main/dinglekitoreo.osk">
+  <a href="https://github.com/Kisson1x/skins/blob/main/screenshot018.jpg?raw=true">
     <p align="center">
       dinglekitoreo
     </p>
@@ -75,7 +75,7 @@
   </a>
 </h1>
 <h1 align="center">
-  <a href="https://github.com/Kisson1x/skins/raw/refs/heads/main/a(knzx)ristia.osk">
+  <a href="https://github.com/Kisson1x/skins/blob/main/screenshot102.jpg?raw=true">
     <p align="center">
       a(knzx)ristia
     </p>
@@ -96,14 +96,6 @@
       tekkito (edit)
     </p>
     <img src="https://i.ibb.co/LdXWVjC/screenshot041.jpg"/>
-  </a>
-</h1>
-<h1 align="center">
-  <a href="https://github.com/Kisson1x/skins/raw/refs/heads/main/aristia%20rudj%20(edit).osk">
-    <p align="center">
-      Aristia rudj (edit)
-    </p>
-    <img src="https://i.ibb.co/KxnQ16s/screenshot043.jpg"/>
   </a>
 </h1>
 <!-- Skin template, part to edit are wrapped in ``
