@@ -1,7 +1,15 @@
 <h1 align="center">Kissonix skins</h1>
-<p align="center" >
+<p align="center">
   if something doesn't work, then write to me in discord "Kissonix"
 </p>
+<h1 align="center">
+  <a href="https://github.com/Kisson1x/skins/raw/refs/heads/main/bocchi%20mix%20thingy%20aristia%20ver.osk">
+    <p align="center">
+      bocchi mix thingy arustia ver 
+    </p>
+    <img src="https://i.ibb.co/4R2BZKSW/screenshot144.jpg"/>
+  </a>
+</h1>
 <h1 align="center">
   <a href="https://github.com/Kisson1x/skins/raw/refs/heads/main/_%E2%80%A2%20tekkito2_vskf.osk">
     <p align="center">
