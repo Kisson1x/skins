@@ -5,7 +5,7 @@
 <h1 align="center">
   <a href="https://github.com/Kisson1x/skins/raw/refs/heads/main/bocchi%20mix%20thingy%20aristia%20ver.osk">
     <p align="center">
-      bocchi mix thingy arustia ver 
+      bocchi mix thingy aristia ver 
     </p>
     <img src="https://i.ibb.co/4R2BZKSW/screenshot144.jpg"/>
   </a>
